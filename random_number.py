@@ -8,7 +8,7 @@ import random
 
 
 def main():
-    # this function checks if the number you chose matches the random number.
+    # This function checks if the number you chose matches the random number.
     random_number = random.randint(1, 9)
 
     # input
